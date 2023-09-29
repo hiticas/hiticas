@@ -4,6 +4,8 @@
 
 🔭 Highlights: Currently I am working as a full-time <strong>React/Frontend Developer</strong>. I am using Styled Components, React/Redux, TypeScript, StoryBook, CSS, Material UI5, Git, Gitlab, Figma & Jenkins.Apart from the above skills, I like to create applications using Tailwind CSS, NextJS 13, Nodejs, SASS and MongoDB too.
 
+Personal Website: https://personal-website-mike.netlify.app
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me on:
 <p align="left">
  
